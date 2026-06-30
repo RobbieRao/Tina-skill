@@ -3,15 +3,15 @@
 ## External Recognition
 
 - PolyU profile lists the SizeChina Faceform as winner of Best Innovation Award from the ACED Ergonomics Design Awards 2017 in Japan.
-  Source: https://www.polyu.edu.hk/sd/people/academic-staff/luximon-tina/
+  Source: PolyU official profile.
   Confidence: high.
 
-- PolyU 2018 news says AEDLAB, led by Dr Yan Luximon, won the ACED Ergonomics Design Awards 2017 Best Innovation Award for SizeChina Faceform, described as anthropometric design tools for head and face related products for the Chinese population.
+- PolyU 2018 news says AEDLAB won the ACED Ergonomics Design Awards 2017 Best Innovation Award for SizeChina Faceform, described as anthropometric design tools for head and face related products for the Chinese population.
   Source: https://www.polyu.edu.hk/sd/news-and-events/news/2018/polyu-design-ranked-again-among-qs-world-top-25-art-and-design-institutions/
   Confidence: high, institutional.
 
 - PolyU profile lists "AI-Driven Ergonomic Headwear Customization System" as winning "Gold Medal with the congratulations of the jury" at the 49th International Exhibition of Inventions Geneva and a Special Prize from Lucian Blaga University of Sibiu, Romania.
-  Source: https://www.polyu.edu.hk/sd/people/academic-staff/luximon-tina/
+  Source: PolyU official profile.
   Confidence: high.
 
 - AiDLab event page and PolyU news independently list the same Geneva award for the AI-driven headwear customization system.
@@ -28,7 +28,7 @@
 
 ## External Criticism / Limitations Found
 
-No direct public critique of Yan Luximon's work was found in this pass. That absence should not be interpreted as absence of limitations.
+No direct public critique of Tina's work was found in this pass. That absence should not be interpreted as absence of limitations.
 
 Potential limitations inferred from scope:
 
@@ -40,4 +40,3 @@ Potential limitations inferred from scope:
 ## Distinctive Reputation Pattern
 
 The external reputation is not "design celebrity" but "design researcher who converts human variability into usable product-design systems." Awards cluster where anthropometric research becomes visible artifacts: SizeChina Faceform, AdaptSpecs, AI-driven headwear customization.
-

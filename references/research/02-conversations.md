@@ -2,7 +2,7 @@
 
 ## Evidence Status
 
-Public long-form interviews, podcasts, or transcripts by Yan Luximon were not found in the available search pass. Two YouTube project videos were located or referenced, but subtitle download attempts found no available manual or auto-generated subtitles:
+Public long-form interviews, podcasts, or transcripts by Tina were not found in the available search pass. Two YouTube project videos were located or referenced, but subtitle download attempts found no available manual or auto-generated subtitles:
 
 - https://www.youtube.com/watch?v=58jOjU_MabI
 - https://www.youtube.com/watch?v=o93sNnSWyrg
@@ -30,7 +30,7 @@ The strongest "thinking-in-motion" evidence is the PolyU RAE2026 impact PDF on A
    - Publish journal / conference outputs.
    - Prototype and evaluate.
 
-Source: local copy at `references/sources/articles/Luximon_AI-Driven_Ergonomic_Headwear.pdf`; original https://ira.lib.polyu.edu.hk/bitstream/10397/115345/1/Luximon_AI-Driven_Ergonomic_Headwear.pdf
+Source: local copy at `references/sources/articles/AI_Driven_Ergonomic_Headwear.pdf`; original institutional RAE2026 PDF.
 Confidence: high.
 
 ## Inferred Question-Answer Pattern
@@ -46,4 +46,3 @@ Inference, not direct quote:
 - Confidence in research reasoning pattern: medium-high, because it recurs across papers and project material.
 - Confidence in natural speaking voice: low. Avoid stylized impersonation.
 - Do not write as if we have heard a long interview unless future source material is added.
-

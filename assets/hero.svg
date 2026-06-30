@@ -1,0 +1,14 @@
+<svg width="960" height="360" viewBox="0 0 960 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Tina Skill hero">
+  <rect width="960" height="360" rx="28" fill="#101820"/>
+  <rect x="36" y="36" width="888" height="288" rx="22" fill="#F4F1EA"/>
+  <path d="M98 235C128 151 180 110 254 112C326 114 357 174 421 173C487 172 506 110 578 108C654 106 705 151 742 235" stroke="#C7553A" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="254" cy="112" r="18" fill="#1D5C63"/>
+  <circle cx="578" cy="108" r="18" fill="#1D5C63"/>
+  <path d="M184 244H775" stroke="#101820" stroke-width="4" stroke-linecap="round" stroke-dasharray="12 16"/>
+  <rect x="112" y="74" width="78" height="40" rx="8" fill="#1D5C63"/>
+  <rect x="772" y="224" width="78" height="40" rx="8" fill="#1D5C63"/>
+  <text x="480" y="140" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="54" font-weight="800" fill="#101820">Tina.skill</text>
+  <text x="480" y="184" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="600" fill="#1D5C63">Ergonomics · Digital Human · AI Design · Research Mentor</text>
+  <text x="480" y="286" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="18" fill="#5C5C5C">Model the human first. Validate the product and the paper next.</text>
+</svg>
+

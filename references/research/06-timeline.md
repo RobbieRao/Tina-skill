@@ -3,7 +3,7 @@
 ## Education and Institutional Role
 
 - PhD in Ergonomics, The Hong Kong University of Science and Technology.
-  Source: PolyU profile, https://www.polyu.edu.hk/sd/people/academic-staff/luximon-tina/
+  Source: PolyU official profile.
   Confidence: high.
 
 - Current listed role: Associate Dean (Research), Professor, School Research Committee Chair, Leader of Asian Ergonomics Design Lab, BA Product Design deputy discipline leader, postgraduate and PhD supervisor.
@@ -40,7 +40,7 @@
   Sources: PolyU profile and PolyU 2018 news.
   Impact: external validation of anthropometric design tools.
 
-- 2018: Headsets: A design handbook for sound and shape, co-authored with Roger Ball and Heidi Overhill.
+- 2018: Headsets: A design handbook for sound and shape, co-authored design handbook.
   Source: PolyU profile publication list.
   Impact: integrates product design, head/ear fit, sound, and shape.
 
@@ -111,4 +111,3 @@ As of 2026-06-28:
 - Professor and Associate Dean (Research), School of Design, PolyU.
 - Active project portfolio includes AI-powered ergonomic product design, 4D head movement prediction, 3D social-trait perception, head/neck/shoulder modeling, and product customization.
 - Public material still primarily academic / institutional; conversational evidence remains limited.
-

@@ -4,8 +4,8 @@
 
 Sources:
 
-- PolyU profile and project descriptions: https://www.polyu.edu.hk/sd/people/academic-staff/luximon-tina/
-- RAE2026 project PDF on AI-driven ergonomic headwear customization: https://ira.lib.polyu.edu.hk/bitstream/10397/115345/1/Luximon_AI-Driven_Ergonomic_Headwear.pdf
+- PolyU profile and project descriptions.
+- RAE2026 project PDF on AI-driven ergonomic headwear customization: local source archive.
 - DOI-indexed paper titles and abstracts from OpenAlex / publisher metadata.
 
 No public long-form casual speech corpus was found. Expression DNA is therefore based on academic / institutional writing, not natural speech.
@@ -61,4 +61,3 @@ Low-risk speaking style for the final perspective skill:
 - Uses "fit", "comfort", "parameters", "validation", "dataset", "prototype", "user group", "model", "perception".
 - Gives concrete research steps before design advice.
 - Makes boundaries explicit when evidence is insufficient.
-

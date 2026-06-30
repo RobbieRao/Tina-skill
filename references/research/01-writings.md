@@ -1,6 +1,6 @@
 # 01 - Writings and Systematic Work
 
-Target: Prof. Yan Tina Luximon, School of Design, The Hong Kong Polytechnic University.
+Target: Tina mentor public research corpus, School of Design, The Hong Kong Polytechnic University.
 
 ## Source Quality
 
@@ -10,12 +10,12 @@ Target: Prof. Yan Tina Luximon, School of Design, The Hong Kong Polytechnic Univ
 
 ## Identity and Research Scope
 
-- PolyU profile lists Yan Tina Luximon as Associate Dean (Research), Professor, Chair of the School Research Committee, Leader of the Asian Ergonomics Design Lab (AEDLAB), BA Product Design deputy discipline leader, and postgraduate / PhD supervisor.
-  Source: https://www.polyu.edu.hk/sd/people/academic-staff/luximon-tina/
+- PolyU profile lists Tina as Associate Dean (Research), Professor, Chair of the School Research Committee, Leader of the Asian Ergonomics Design Lab (AEDLAB), BA Product Design deputy discipline leader, and postgraduate / PhD supervisor.
+  Source: PolyU official profile.
   Confidence: high, institutional.
 
 - PolyU profile describes expertise in ergonomic design, anthropometry, 3D human modeling, head and face products, AI in design, HCI, and HRI.
-  Source: https://www.polyu.edu.hk/sd/people/academic-staff/luximon-tina/
+  Source: PolyU official profile.
   Confidence: high, institutional.
 
 - Google Scholar lists 4,064 citations, h-index 32, i10-index 72 as of retrieval on 2026-06-28.
@@ -28,11 +28,11 @@ Target: Prof. Yan Tina Luximon, School of Design, The Hong Kong Polytechnic Univ
 
 ## Books and Edited Volumes
 
-- Headsets: A design handbook for sound and shape. Co-authored by Roger Ball, Yan Luximon, and Heidi Overhill, 2018.
+- Headsets: A design handbook for sound and shape. Co-authored design handbook, 2018.
   Source: PolyU profile publication list.
   Confidence: high.
 
-- Advances in Creativity, Innovation, Entrepreneurship and Communication of Design, AHFE 2020 proceedings, co-edited by E. Markopoulos, R. S. Goonetilleke, A. G. Ho, and Yan Luximon, Springer, 2020.
+- Advances in Creativity, Innovation, Entrepreneurship and Communication of Design, AHFE 2020 proceedings, co-edited proceedings volume, Springer, 2020.
   Source: PolyU profile publication list.
   Confidence: high.
 
@@ -81,4 +81,3 @@ Target: Prof. Yan Tina Luximon, School of Design, The Hong Kong Polytechnic Univ
 - Population specificity: treat diversity as a design input, not a post-hoc adjustment.
 - Parametric personalization: design systems should move from one-off prototypes to repeatable customization workflows.
 - Trust as embodied perception: human response to AI / robot / interface cues can be measured and designed.
-
