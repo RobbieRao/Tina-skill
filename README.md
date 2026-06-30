@@ -128,7 +128,7 @@ Tina ❯ 你的问题不是语言，是链条断了。
 ### 方式一：一行命令（推荐，跨 runtime 自动检测）
 
 ```bash
-npx skills add RobbieRao/tina-skill
+npx skills add RobbieRao/Tina-skill
 ```
 
 通用 CLI 安装器会自动识别当前 runtime 并把 skill 放到正确目录。需要指定 runtime 时加 `-a claude-code` / `-a codex` / `-a cursor` / `-a openclaw` 等参数。
@@ -147,7 +147,7 @@ npx skills add RobbieRao/tina-skill
 | Hermes Agent | 跑该 runtime 的 install 脚本或 clone 到其 skills 目录 |
 
 ```bash
-git clone https://github.com/RobbieRao/tina-skill <对应路径>
+git clone https://github.com/RobbieRao/Tina-skill <对应路径>
 ```
 
 </details>
@@ -293,4 +293,3 @@ tina-skill/
 ## 许可证
 
 MIT — 可用于个人研究、教学、产品评审和二次修改。正式论文和产品声明仍需回到原始来源核查。
-
